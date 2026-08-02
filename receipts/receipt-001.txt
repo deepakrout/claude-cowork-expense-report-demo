@@ -1,0 +1,10 @@
+RIDESHARE RECEIPT
+Service: CityHop Rides
+Date: 07/22/2026
+Trip: Downtown Office -> SFO Airport
+Distance: 14.2 mi
+Fare: $38.40
+Tip: $6.00
+Total: $44.40
+Payment: Visa ...4471
+Trip ID: CH-88213-A
