@@ -1,0 +1,10 @@
+{
+  "name": "cowork-expense-report-validator",
+  "version": "1.0.0",
+  "description": "Validates CSV expense reports produced by Claude Cowork against the sample receipts in this repo",
+  "main": "validate-expense-report.js",
+  "scripts": {
+    "validate": "node validate-expense-report.js"
+  },
+  "license": "MIT"
+}
