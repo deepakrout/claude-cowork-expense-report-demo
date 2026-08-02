@@ -1,0 +1,10 @@
+RESTAURANT RECEIPT
+Venue: The Copper Skillet
+Date: 23 Jul 2026
+Server: Marcus
+Party size: 3 (client lunch - Acme Corp deal review)
+Subtotal: $86.50
+Tax: $7.79
+Gratuity (auto 20%): $17.30
+Total: $111.59
+Payment: Amex ...1029
