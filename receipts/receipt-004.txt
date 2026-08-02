@@ -1,0 +1,11 @@
+OFFICE SUPPLY RECEIPT
+Store: Cascade Office Depot
+Date: 07/25/2026
+Items:
+  - USB-C dock x1 ......... $64.99
+  - Notebook 3-pack x1 .... $9.99
+  - HDMI cable x2 ......... $19.98
+Subtotal: $94.96
+Sales Tax (8.5%): $8.07
+Total: $103.03
+Payment: Visa ...4471
