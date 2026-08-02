@@ -1,0 +1,11 @@
+HOTEL FOLIO
+Property: Harborview Suites
+Guest: D. Rout
+Check-in: 2026-07-22
+Check-out: 2026-07-24
+Room (2 nights @ $189.00): $378.00
+City Occupancy Tax (11%): $41.58
+Resort Fee: $15.00
+Total Due: $434.58
+Payment: Visa ...4471
+Folio #: HS-20260724-091
